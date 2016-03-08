@@ -31,17 +31,18 @@ We are three members in the group shared the work equally akhila katkam is doing
 
 # Project Team and Management
 
-     Team Member                Roles & Contributions
+     Team Member                        Roles & Contributions
  
    
-     Sai karthik Napa (0270)	  Data Collection               
+     Sai karthik Napa (0270)	          Data Collection               
   
-     Akhila Katkam (0736)	      Testing
+     Akhila Katkam (0736)	          Testing
    
-     Manepalli Mallikarjuna (1620)	Data analysis,coding
+     Manepalli Mallikarjuna (1620)	     Data analysis,coding
      
      Avinash Chowdary Koganti (1474)	API development, documentation
 
 
-# Deliverable and Checkpoints
+# Technology Used : 
+  Microsoft .NET Backend Used : SQL Server 
 
