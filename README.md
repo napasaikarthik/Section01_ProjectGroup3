@@ -1,7 +1,7 @@
 # Section01_ProjectGroup3
 Data Mining
 
-# Propsal :
+# Proposal :
 
 # Tweet Segmentation and Its Application to Named Entity Recognition
 
