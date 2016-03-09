@@ -12,11 +12,6 @@ Twitter has pulled in a large number of clients to share and scatter most except
 
 # DATA:
 
-Sai karthik Napa (0270)	Data Collection
-Akhila Katkam (0736)	Testing
-Manepalli Mallikarjuna (1620)	Data analysis,coding
-Avinash Chowdary Koganti (1474)	API development, documentation
-
 =======
 + In this paper, we concentrate on the undertaking of tweet division. The objective of this assignment is to part a tweet into a grouping of sequential n-grams, each of which is known as a portion. A section can be a named element (e.g., a film title "discovering nemo"), a semantically significant data unit (e.g., "authoritatively discharged"), or whatever other sorts of expressions which show up "more than by possibility"
 
