@@ -12,7 +12,6 @@ Twitter has pulled in a large number of clients to share and scatter most except
 
 # DATA:
 
-=======
 + In this paper, we concentrate on the undertaking of tweet division. The objective of this assignment is to part a tweet into a grouping of sequential n-grams, each of which is known as a portion. A section can be a named element (e.g., a film title "discovering nemo"), a semantically significant data unit (e.g., "authoritatively discharged"), or whatever other sorts of expressions which show up "more than by possibility"
 
 + To accomplish brilliant tweet division, we propose a nonexclusive tweet division structure, named HybridSeg. HybridSeg gains from both worldwide and nearby settings, and has the capacity of gaining from pseudo criticism.
