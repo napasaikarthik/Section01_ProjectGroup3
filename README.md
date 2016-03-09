@@ -1,4 +1,4 @@
-# Section01_ProjectGroup3
+﻿# Section01_ProjectGroup3
 Data Mining
 
 Propsal :
@@ -26,6 +26,3 @@ Sai karthik Napa (0270)	Data Collection
 Akhila Katkam (0736)	Testing
 Manepalli Mallikarjuna (1620)	Data analysis,coding
 Avinash Chowdary Koganti (1474)	API development, documentation
-
-
-
