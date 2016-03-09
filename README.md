@@ -3,7 +3,7 @@ Data Mining
 
 # Proposal :
 
-# Tweet Segmentation and Its Application to Named Entity Recognition
+# Named entity Recognition using tweet segmentation
 
 # OVERVIEW
 
@@ -26,8 +26,15 @@ Twitter has pulled in a large number of clients to share and scatter most except
 
 + Neighborhood connection. Tweets are profoundly time-delicate such a variety of developing expressions such as "She Dancin" can't be found in outside information bases. Be that as it may, considering a substantial number of tweets distributed inside of a brief span period (e.g., a day) containing the expression, it is not hard to remember "She Dancin" as a legitimate and important section. We in this manner research two nearby connections, in particular neighborhood phonetic components and nearby collocation.
 
-Project Team Members and Roles:
+# Project Team Managment:
+
 We are four members in the group shared the work equally akhila katkam is doing the testing work and sai karthik napa is doing the back end data collection, Avinash is contributing the material required and  Mallikarjuna provides Data Analysis for the projects.
+
+# Researchquestions :
+
++ Does it have any restrictions on the length and spellings of the tweet.
++ Does the tweet segmentation helpful for meaningless sentences or without abbrevation.
++ 
 
 # Project Team and Management
 
