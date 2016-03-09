@@ -55,13 +55,8 @@ We are four members in the group shared the work equally akhila katkam is doing 
   + Front end :Microsoft .NET 
   + Backend Used : SQL Server 
 
-| 
-
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) |
 | --------------- | -------------------- | -------------------------- |
 | 02-15-2016 | Project Proposal | sai karthik napa |
 | 03-08-2016 | Project Report   | Team Members     |
-
-
->>>>>>> origin/master
