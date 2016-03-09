@@ -22,7 +22,7 @@ Avinash Chowdary Koganti (1474)	API development, documentation
 
 + To accomplish brilliant tweet division, we propose a nonexclusive tweet division structure, named HybridSeg. HybridSeg gains from both worldwide and nearby settings, and has the capacity of gaining from pseudo criticism.
 
-+ To accomplish brilliant tweet division, we propose a nonexclusive tweet division structure, named HybridSeg. HybridSeg gains from both worldwide and nearby settings, and has the capacity of gaining from pseudo criticism.
++ Worldwide setting. Tweets are posted for data sharing and correspondence. The named elements and semantic expressions are very much protected in tweets.
 
 + Neighborhood connection. Tweets are profoundly time-delicate such a variety of developing expressions such as "She Dancin" can't be found in outside information bases. Be that as it may, considering a substantial number of tweets distributed inside of a brief span period (e.g., a day) containing the expression, it is not hard to remember "She Dancin" as a legitimate and important section. We in this manner research two nearby connections, in particular neighborhood phonetic components and nearby collocation.
 
