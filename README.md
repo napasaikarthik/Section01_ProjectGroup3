@@ -1,4 +1,4 @@
-﻿# Section01_ProjectGroup3
+# Section01_ProjectGroup3
 Data Mining
 
 # Proposal :
@@ -18,13 +18,11 @@ Twitter has pulled in a large number of clients to share and scatter most except
 
 + Worldwide setting. Tweets are posted for data sharing and correspondence. The named elements and semantic expressions are very much protected in tweets.
 
-+ Neighborhood connection. Tweets are profoundly time-delicate such a variety of developing expressions such as "She Dancin" can't be found in outside information bases. Be that as it may, considering a substantial number of tweets distributed inside of a brief span period (e.g., a day) containing the expression, it is not hard to remember "She Dancin" as a legitimate and important section. We in this manner research two nearby connections, in particular neighborhood phonetic components and nearby collocation.
-
 # MODELS TO SOLVE
 
-+ As an application of tweet segmentation, we propose and evaluate two segment-based NER algorithms. Both algorithms are unsupervised in nature and take tweet segments as input.
++ As a use of tweet division, we propose and assess two section based NER calculations. Both calculations are unsupervised in nature and take tweet fragments as data.
 
-+ Neighborhood connection. Tweets are profoundly time-delicate such a variety of developing expressions such as "She Dancin" can't be found in outside information bases. Be that as it may, considering a substantial number of tweets distributed inside of a brief span period (e.g., a day) containing the expression, it is not hard to remember "She Dancin" as a legitimate and important section. We in this manner research two nearby connections, in particular neighborhood phonetic components and nearby collocation.
++ Neighborhood association Tweets are significantly time-sensitive such an assortment of creating expressions, for example, "he wlkin" can't be found in outside data bases. In any case, considering a generous number of tweets circulated within a brief traverse period (e.g., a week) containing the expression, it is not hard to recollect that "he wlkin" as a honest to goodness and imperative segment. We in this way scrutinize two adjacent associations, specifically neighborhood phonetic parts and close-by collocation.
 
 # Project Team Managment:
 
@@ -58,4 +56,8 @@ We are four members in the group shared the work equally akhila katkam is doing 
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) |
 | --------------- | -------------------- | -------------------------- |
 | 02-15-2016 | Project Proposal | sai karthik napa |
+<<<<<<< HEAD
 | 03-08-2016 | Project Report   | Team Members     |
+=======
+| 03-08-2016 | Project Report   | Team Members     |
+>>>>>>> origin/master
