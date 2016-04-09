@@ -1,58 +1,50 @@
 # Section01_ProjectGroup3
-Data Mining
+# Data Mining
 
-# Proposal :
-
-# Named entity Recognition using tweet segmentation
+# TWITTER ANALYSIS
 
 # OVERVIEW
 
-Twitter has pulled in a large number of clients to share and scatter most exceptional data, bringing about substantial volumes of information delivered regular. Be that as it may, numerous applications in Information Retrieval (IR) and Natural Language Processing (NLP) experience the ill effects of the boisterous and short nature of tweets. In this paper, we propose a novel system for tweet division in a bunch mode, called HybridSeg. By part tweets into important portions, the semantic or setting data is all around safeguarded and effortlessly extricated by the downstream applications. HybridSeg finds the ideal division of a tweet by expanding the total of the stickiness scores of its hopeful portions. The stickiness score considers the likelihood of a portion being an expression in English (i.e., worldwide setting) and the likelihood of a fragment being an expression inside of the cluster of tweets (i.e., nearby connection). For the last mentioned, we propose and assess two models to determine nearby connection by considering the etymological elements and term-reliance in a bunch of tweets, separately. HybridSeg is likewise intended to iteratively gain from certain sections as pseudo input. Probes two tweet information sets demonstrate that tweet division quality is altogether enhanced by learning both worldwide and nearby settings contrasted and utilizing worldwide connection alone. Through investigation and examination, we demonstrate that nearby etymological components are more solid for learning neighborhood connection contrasted and term-reliance. As an application, we demonstrate that high exactness is accomplished in named substance acknowledgment by applying portion based grammatical form (POS) labeling.
+Twitter is one of the popular social network where people post their views on everything from their personal problems to social issues. They also discuss about all the topics in the world. 7168 tweets are produced every second. All the predictions on sports, politics and all the data for analysis on social issues are taken form twitter posts. By using this data, we can represent what people are thinking.
 
+# DATASETS:
 
-# DATA:
++ Finding data using twitter is very simple because each topic is mentioned using a hashtag. Every hash tag helps the users to follow them and retweet accordingly. In our project we are going to use hash tags to track down the user post on the topic.
+The data we collect from twitter is not structured. So we try to retrieve only location, timestamp, message, and hashtag used. We can use different tools to represent the data some of the potential tools I have explored are Splunk and microstrategy. These tools are even used in bigdata applications
+We collect all this data using the twitter API, which help us to retrieve the data using the python code.
 
-+ In this paper, we concentrate on the undertaking of tweet division. The objective of this assignment is to part a tweet into a grouping of sequential n-grams, each of which is known as a portion. A section can be a named element (e.g., a film title "discovering nemo"), a semantically significant data unit (e.g., "authoritatively discharged"), or whatever other sorts of expressions which show up "more than by possibility"
+# RESEARCH QUESTIONS
 
-+ To accomplish brilliant tweet division, we propose a nonexclusive tweet division structure, named HybridSeg. HybridSeg gains from both worldwide and nearby settings, and has the capacity of gaining from pseudo criticism.
+Now we are going to retrieve the tweets on the present presidential elections.
+•	Which states in the country are showing interest in the presidential elections?
+•	Which candidate is being more popular in the discussions?
+•	How many users are active on a particular GOP?
+•	What is the time period where the users are active?
 
-+ Worldwide setting. Tweets are posted for data sharing and correspondence. The named elements and semantic expressions are very much protected in tweets.
-
-# MODELS TO SOLVE
-
-+ As a use of tweet division, we propose and assess two section based NER calculations. Both calculations are unsupervised in nature and take tweet fragments as data.
-
-+ Neighborhood association Tweets are significantly time-sensitive such an assortment of creating expressions, for example, "he wlkin" can't be found in outside data bases. In any case, considering a generous number of tweets circulated within a brief traverse period (e.g., a week) containing the expression, it is not hard to recollect that "he wlkin" as a honest to goodness and imperative segment. We in this way scrutinize two adjacent associations, specifically neighborhood phonetic parts and close-by collocation.
+# CODE AND APPLICATION
++ Code is posted in the GitHub link.
 
 # Project Team Managment:
 
-We are four members in the group shared the work equally akhila katkam is doing the testing work and sai karthik napa is doing the back end data collection, Avinash is contributing the material required and  Mallikarjuna provides Data Analysis for the projects.
+We are four members in the group shared the work equally SAI KARTHIK NAPA is doing the testing and API development work and AKHILA KATKAM is working on data analysis and API development, Avinash is also working on data analysis and documentation and  Mallikarjuna provides Data Analysis and testing.
 
-# Research questions :
-
-+ Does it have any restrictions on the length and spellings of the tweet?
-+ Does the tweet segmentation helpful for meaningless sentences or without abbrevation?
-+ Is the segmentation of multiple tweets uses more system data?
 
 # Project Team and Management
 
      Team Member                        Roles & Contributions
  
    
-     Sai karthik Napa (0270)	          Data Collection               
+     Sai karthik Napa (0270)	          testing and APi development             
   
-     Akhila Katkam (0736)	          Testing
+     Akhila Katkam (0736)	          Data Analysis and API development
    
-     Manepalli Mallikarjuna (1620)	     Data analysis,coding
+     Manepalli Mallikarjuna (1620)	     Data Analysis and testing
      
-     Avinash Chowdary Koganti (1474)	API development, documentation
+     Avinash Chowdary Koganti (1474)	Data Analysis , documentation
 
-
-# Technology Used : 
-  + Front end :Microsoft .NET 
-  + Backend Used : SQL Server 
 
 # DELIVERABLES AND CHECKPOINTS
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) |
 | --------------- | -------------------- | -------------------------- |
-| 02-15-2016 | Project Proposal | sai karthik napa |
+| 04-08-2016 | Project Proposal | Team Members |
+
