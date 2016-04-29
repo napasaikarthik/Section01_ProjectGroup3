@@ -21,6 +21,38 @@ Now we are going to retrieve the tweets on the present presidential elections.
 •	How many users are active on a particular GOP?
 •	What is the time period where the users are active?
 
+# Models and Analysis
+
+1. Model is prepared using 2 data files 
+   1.1 USA Candidate list 
+   1.2 State list of USA 
+
+2. Model make we used only java regex. Using Java Regex   we classified data according to  2 above files (state list and candidate list )
+
+3. When we got tweets then we first we classify data according to candidate for this we are applying java regex . One candidate can have more hashtags or name so we put all names for all candidate corresponding. 
+
+Like for  Donald J. Trump twiter users use @trump , #trump , #trump2016 , @realdonaldjtrump , #donaldjtrump  . so we counting all tweets for trump which have these hashtags or handler .
+
+
+4. For state wise classification we have list of USA states. When we are getting data then we first we are checking tweet location if tweet location is not null then classifying data state wise using java regex . if tweet location is null then we are check twitter user location then we are classifying according state wise . Twitter user most probably does not on GPS so tweet location come null, thats why we also considered user location which is provided when user created account.
+
+
+5. Location wise active user count also based on tweet count. 
+
+6. Time period also done using tweets based first we are stored data in cassandra and then counting which time period have more tweets 
+
+
+7. We done below four analysis using tweet count based 
+   
+   1. Which states in the country are showing interest in the presidential elections?
+   2. Which candidate is being more popular in the discussions?
+   3. How many users are active on a particular GOP?
+   4. What is the time period where the users are active?
+
+Above four analysis done based on only tweets count based . 
+like if state texax have more tweets than other states then texas is more interested in  election .
+
+
 # CODE AND APPLICATION
 + Code is posted in the GitHub link.
 
