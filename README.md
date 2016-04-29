@@ -200,16 +200,16 @@ We are four members in the group shared the work equally SAI KARTHIK NAPA is doi
 
 # Project Team and Management
 
-     Team Member                        Roles & Contributions
+     Team Member                                Roles                                        Contributions
  
    
-     Sai karthik Napa (0270)	          testing and APi development             
+     Sai karthik Napa (0270)	          testing and APi developmentData     collection for model (state and candidate list)             
   
-     Akhila Katkam (0736)	          Data Analysis and API development
+     Akhila Katkam (0736)	           Data Analysis and API development      Backend part (Data collection)
    
-     Manepalli Mallikarjuna (1620)	     Data Analysis and testing
+     Manepalli Mallikarjuna (1620)	     Data Analysis and testing          Backend (Data analysis and storing in cassandra )
      
-     Avinash Chowdary Koganti (1474)	Data Analysis , documentation
+     Avinash Chowdary Koganti (1474)	Data Analysis , documentation        Analized data Sending client side,Data consuming and showing                                                                         on UI 
 
 
 # DELIVERABLES AND CHECKPOINTS
