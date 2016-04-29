@@ -52,6 +52,143 @@ Like for  Donald J. Trump twiter users use @trump , #trump , #trump2016 , @reald
 Above four analysis done based on only tweets count based . 
 like if state texax have more tweets than other states then texas is more interested in  election .
 
+# Requirmennts and Installation Notes
+Installation
+-----------
+
+```
+1. Requirement
+
+1.1 Apache Cassandra(version >= 2.1.8)
+
+1.2 Java (version>1.7)
+
+1.3 Maven (version >= 2)
+
+1.4 eclipse
+
+2. Introduction
+
+Twitter Data mining take data according to hashtags using twitter streaming api . So it will
+
+collect data real time and store in cassandra using some custom classification methods and
+
+data cleansing operation .
+
+After user can see some analytics based on stored data into cassandra . like popular usa
+
+presidential candidate , states those showing interest into election .
+
+3. Intallation
+
+3.1 Java Install
+
+By default window have java only path have to set for java . use following link to set path
+
+https://java.com/en/download/help/path.xml
+
+3.2 Apache cassandra install
+
+First download tar file of apache cassandra from below link
+
+http://cassandra.apache.org/download/
+
+After this extract tar file on one location .this will provide one apache cassandra folder .
+
+Run :- user first have to go apache-cassandra-*.*.*/bin by cd command
+
+WINDOW USER can run by directly writing cassandra
+
+UBUNTU USER have to run this command ./casssandra
+
+After run on cassandra user have to run command line tool to create keyspace and tables
+
+WINDOW USER can run by directly writing cqlsh
+
+UBUNTU USER have to run this command ./cqlsh
+
+After this user have to create database and table by following script user can create database and tables
+
+for this application
+
+CREATE KEYSPACE twitter WITH replication = {'class': 'SimpleStrategy', 'replication_factor': '1'}
+
+AND durable_writes = true;
+
+use twitter ;
+
+CREATE TABLE twitter.keywords (
+
+keyword text PRIMARY KEY
+
+CREATE TABLE twitter.mentionperson (
+
+name text,
+
+id bigint,
+
+interest counter,
+
+PRIMARY KEY (name, id)
+
+CREATE TABLE twitter.states (
+
+state text PRIMARY KEY,
+
+interest counter
+
+CREATE TABLE twitter.activeusertimeperiod (
+
+state text,
+
+date text,
+
+endtime text,
+
+starttime text,
+
+PRIMARY KEY (state, date)
+
+CREATE TABLE twitter.tweets (
+
+country text,
+
+year int,
+
+month int,
+
+day int,
+
+hour int,
+
+second int,
+
+tweetid bigint,
+
+retweetid bigint,
+
+created_at timestamp,
+
+tweet text,
+
+PRIMARY KEY (country, year, month, day, hour, second, tweetid, retweetid)
+
+3.3 Maven install
+
+To install maven on Window use following link reference
+
+http://www.avajava.com/tutorials/lessons/what-is-maven-and-how-do-i-install-it.html
+
+4. UI OF THIS APPLICATION
+
+4.1 UI have streaming start and stop button . By this button user can start get data and stop also.
+
+4.2 Submit button insert new hashtag to track using streaming api .
+
+4.3 Analysis Button will give all analysis .
+```
+
+
 
 # CODE AND APPLICATION
 + Code is posted in the GitHub link.
