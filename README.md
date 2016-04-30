@@ -193,6 +193,213 @@ http://www.avajava.com/tutorials/lessons/what-is-maven-and-how-do-i-install-it.h
 # CODE AND APPLICATION
 + Code is posted in the GitHub link.
 
+# Final Results
+-----------
+
+```
+State interested in election
+"Florida"
+"Texas"
+"Georgia"
+"New York"
+"California"
+"Virginia"
+"Washington"
+"Pennsylvania"
+"Indiana"
+"Oklahoma"
+"Kansas"
+"North Carolina"
+"Arizona"
+"South Carolina"
+"Missouri"
+"Ohio"
+"Mississippi"
+"Michigan"
+"Maryland"
+"Colorado"
+"Louisiana"
+"Illinois"
+"Kentucky"
+"Tennessee"
+"Massachusetts"
+"Delaware"
+"Alabama"
+"Vermont"
+"New Jersey"
+"Iowa"
+"Minnesota"
+"Oregon"
+"Arkansas"
+"Wisconsin"
+"West Virginia"
+"Nevada"
+"Connecticut"
+"Maine"
+"New Mexico"
+"Idaho"
+"New Hampshire"
+"Nebraska"
+"North Dakota"
+"Utah"
+"Wyoming"
+"South Dakota"
+"Hawaii"
+"Montana"
+"Alaska"
+Candidate famouns in election
+realdonaldtrump":1094
+"tedcruz":79
+"hillaryclinton": 76
+"sensanders": 58
+"johnkasich:6
+Active user count state wise
+"Florida":398
+"Texas":341
+"Georgia":292
+"New York":280
+"California":266
+"Virginia":251
+"Washington":233
+"Pennsylvania":227
+"Indiana":208
+"Oklahoma":140
+"Kansas":123
+"North Carolina":122
+"Arizona":111
+"South Carolina":108
+"Missouri":107
+"Ohio":93
+"Mississippi":90
+"Michigan":89
+"Maryland":89
+"Colorado":87
+"Louisiana":85
+"Illinois":84
+"Kentucky":76
+"Tennessee":73
+"Massachusetts":71
+"Delaware":69
+"Alabama":67
+"Vermont":52
+"New Jersey":44
+"Iowa":44
+"Minnesota":41
+"Oregon":39
+"Arkansas":38
+"Wisconsin":34
+"West Virginia":32
+"Nevada":31
+"Connecticut":23
+"Maine":22
+"New Mexico":20
+"Idaho":16
+"New Hampshire":12
+"Nebraska":10
+"North Dakota":8
+"Utah":8
+"Wyoming":8
+"South Dakota":7
+"Hawaii":2
+"Montana":2
+"Alaska":1
+Time period for user active date wise :-
+"South Carolina=2016-4-26":"From 9-48-37 TO 9-52-45"
+"Maine=2016-4-24":"From 11-11-35 TO 17-6-14"
+"Maine=2016-4-26":"From 9-48-50 TO 9-51-47"
+"Kansas=2016-4-26":"From 9-48-28 TO 9-52-39"
+"Kansas=2016-4-24":"From 11-4-38 TO 17-6-33"
+"Nebraska=2016-4-24":"From 11-11-2 TO 17-5-4"
+"Pennsylvania=2016-4-26":"From 9-48-28 TO 9-52-48"
+"West Virginia=2016-4-26":"From 9-48-44 TO 9-52-47"
+"Colorado=2016-4-24":"From 11-4-37 TO 17-3-56"
+"Florida=2016-4-24":"From 11-4-37 TO 17-6-28"
+"Nebraska=2016-4-26":"From 9-48-54 TO 9-48-54"
+"Connecticut=2016-4-26":"From 9-48-29 TO 9-51-23"
+"Colorado=2016-4-26":"From 9-48-29 TO 9-52-45"
+"Florida=2016-4-26":"From 9-48-38 TO 9-52-50"
+"Connecticut=2016-4-24":"From 12-52-33 TO 17-5-38"
+"Pennsylvania=2016-4-24":"From 11-11-5 TO 17-6-3"
+"South Carolina=2016-4-24":"From 11-4-40 TO 17-6-26"
+"Oklahoma=2016-4-24":"From 11-10-56 TO 17-6-10"
+"North Dakota=2016-4-26":"From 9-51-48 TO 9-51-48"
+"Oklahoma=2016-4-26":"From 9-48-34 TO 9-52-42"
+"North Dakota=2016-4-24":"From 15-55-30 TO 16-54-43"
+"Illinois=2016-4-24":"From 11-4-34 TO 17-5-4"
+"Texas=2016-4-24":"From 11-4-35 TO 17-6-27"
+"Illinois=2016-4-26":"From 9-48-34 TO 9-52-50"
+"Oregon=2016-4-26":"From 9-48-55 TO 9-52-41"
+"Texas=2016-4-26":"From 9-48-28 TO 9-52-49"
+"Oregon=2016-4-24":"From 11-10-56 TO 16-56-59"
+"Arizona=2016-4-26":"From 9-48-51 TO 9-52-46"
+"Arizona=2016-4-24":"From 11-4-35 TO 17-5-58"
+"Virginia=2016-4-26":"From 9-48-32 TO 9-52-47"
+"Virginia=2016-4-24":"From 11-4-34 TO 17-6-22"
+"Wisconsin=2016-4-24":"From 11-12-9 TO 17-5-3"
+"North Carolina=2016-4-26":"From 9-48-28 TO 9-52-50"
+"Wisconsin=2016-4-26":"From 9-48-29 TO 9-52-19"
+"Tennessee=2016-4-26":"From 9-48-43 TO 9-52-39"
+"Tennessee=2016-4-24":"From 11-4-36 TO 17-3-21"
+"Louisiana=2016-4-26":"From 9-48-31 TO 9-52-49"
+"Utah=2016-4-26":"From 9-48-53 TO 9-52-39"
+"Iowa=2016-4-24":"From 11-11-14 TO 17-6-19"
+"Iowa=2016-4-26":"From 9-48-40 TO 9-52-42"
+"Utah=2016-4-24":"From 11-11-34 TO 16-20-41"
+"California=2016-4-26":"From 9-48-31 TO 9-52-49"
+"Ohio=2016-4-24":"From 11-4-35 TO 17-6-6"
+"Massachusetts=2016-4-24":"From 11-11-7 TO 17-6-16"
+"California=2016-4-24":"From 11-4-36 TO 17-6-31"
+"Ohio=2016-4-26":"From 9-48-36 TO 9-52-49"
+"Wyoming=2016-4-26":"From 9-49-18 TO 9-51-43"
+"Massachusetts=2016-4-26":"From 9-48-58 TO 9-52-42"
+"Louisiana=2016-4-24":"From 11-11-2 TO 17-6-10"
+"New Hampshire=2016-4-24":"From 11-12-32 TO 17-6-3"
+"New Hampshire=2016-4-26":"From 9-51-46 TO 9-51-46"
+"Hawaii=2016-4-26":"From 9-49-14 TO 9-49-51"
+"Wyoming=2016-4-24":"From 12-50-12 TO 16-50-9"
+"North Carolina=2016-4-24":"From 11-11-9 TO 17-5-19"
+"Washington=2016-4-26":"From 9-48-33 TO 9-52-48"
+"Washington=2016-4-24":"From 11-4-35 TO 17-6-27"
+"New Jersey=2016-4-24":"From 11-11-15 TO 17-6-10"
+"New Jersey=2016-4-26":"From 9-48-39 TO 9-52-42"
+"Nevada=2016-4-26":"From 9-48-36 TO 9-52-29"
+"Maryland=2016-4-24":"From 11-10-56 TO 17-5-25"
+"Michigan=2016-4-24":"From 11-11-15 TO 17-6-23"
+"Nevada=2016-4-24":"From 11-10-55 TO 17-4-55"
+"Montana=2016-4-26":"From 9-51-35 TO 9-51-35"
+"New Mexico=2016-4-24":"From 11-11-42 TO 17-5-32"
+"Michigan=2016-4-26":"From 9-48-28 TO 9-52-42"
+"New Mexico=2016-4-26":"From 9-48-34 TO 9-52-7"
+"South Dakota=2016-4-24":"From 11-11-0 TO 16-27-52"
+"South Dakota=2016-4-26":"From 9-51-29 TO 9-52-40"
+"Alabama=2016-4-24":"From 11-4-35 TO 17-3-56"
+"Vermont=2016-4-24":"From 15-54-2 TO 17-5-31"
+"Alabama=2016-4-26":"From 9-48-38 TO 9-52-42"
+"Indiana=2016-4-26":"From 9-48-33 TO 9-52-48"
+"Idaho=2016-4-24":"From 11-4-40 TO 16-54-56"
+"Kentucky=2016-4-24":"From 11-11-0 TO 17-5-47"
+"Maryland=2016-4-26":"From 9-48-54 TO 9-52-38"
+"Idaho=2016-4-26":"From 9-48-36 TO 9-52-27"
+"Kentucky=2016-4-26":"From 9-48-45 TO 9-52-48"
+"Alaska=2016-4-26":"From 9-51-15 TO 9-51-15"
+"Indiana=2016-4-24":"From 11-10-57 TO 17-6-22"
+"Georgia=2016-4-26":"From 9-48-28 TO 9-52-46"
+"Georgia=2016-4-24":"From 11-4-37 TO 17-6-23"
+"Minnesota=2016-4-24":"From 11-11-4 TO 17-5-0"
+"Minnesota=2016-4-26":"From 9-50-3 TO 9-52-21"
+"New York=2016-4-26":"From 9-48-28 TO 9-52-44"
+"West Virginia=2016-4-24":"From 11-10-58 TO 17-5-59"
+"Arkansas=2016-4-26":"From 9-48-42 TO 9-51-57"
+"Delaware=2016-4-26":"From 9-48-41 TO 9-52-44"
+"New York=2016-4-24":"From 11-4-36 TO 17-6-33"
+"Missouri=2016-4-24":"From 11-4-35 TO 17-6-12"
+"Arkansas=2016-4-24":"From 11-4-34 TO 17-3-44"
+"Missouri=2016-4-26":"From 9-48-33 TO 9-52-38"
+"Mississippi=2016-4-24":"From 11-11-8 TO 17-6-22"
+"Delaware=2016-4-24":"From 11-11-31 TO 17-6-10"
+"Mississippi=2016-4-26":"From 9-48-31 TO 9-52-44"
+COMPLETE
+```
 # Project Team Managment:
 
 We are four members in the group shared the work equally SAI KARTHIK NAPA is doing the testing and API development work and AKHILA KATKAM is working on data analysis and API development, Avinash is also working on data analysis and documentation and  Mallikarjuna provides Data Analysis and testing.
