@@ -11,7 +11,7 @@ Twitter is one of the popular social network where people post their views on ev
 
 + Finding data using twitter is very simple because each topic is mentioned using a hashtag. Every hash tag helps the users to follow them and retweet accordingly. In our project we are going to use hash tags to track down the user post on the topic.
 The data we collect from twitter is not structured. So we try to retrieve only location, timestamp, message, and hashtag used. We can use different tools to represent the data some of the potential tools I have explored are Splunk and microstrategy. These tools are even used in bigdata applications
-We collect all this data using the twitter API, which help us to retrieve the data using the python code.
+We collect all this data using the twitter API, which help us to retrieve the data using the Java code.
 
 # RESEARCH QUESTIONS
 
