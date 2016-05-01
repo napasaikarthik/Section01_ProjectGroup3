@@ -1,1 +1,61 @@
+CREATE KEYSPACE twitter WITH replication = {'class': 'SimpleStrategy', 'replication_factor': '1'}
 
+AND durable_writes = true;
+
+use twitter ;
+
+CREATE TABLE twitter.keywords (
+
+keyword text PRIMARY KEY
+
+CREATE TABLE twitter.mentionperson (
+
+name text,
+
+id bigint,
+
+interest counter,
+
+PRIMARY KEY (name, id)
+
+CREATE TABLE twitter.states (
+
+state text PRIMARY KEY,
+
+interest counter
+
+CREATE TABLE twitter.activeusertimeperiod (
+
+state text,
+
+date text,
+
+endtime text,
+
+starttime text,
+
+PRIMARY KEY (state, date)
+
+CREATE TABLE twitter.tweets (
+
+country text,
+
+year int,
+
+month int,
+
+day int,
+
+hour int,
+
+second int,
+
+tweetid bigint,
+
+retweetid bigint,
+
+created_at timestamp,
+
+tweet text,
+
+PRIMARY KEY (country, year, month, day, hour, second, tweetid, retweetid)
