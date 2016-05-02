@@ -423,4 +423,10 @@ We are four members in the group shared the work equally SAI KARTHIK NAPA is doi
 | Checkpoint Date | Expected Deliverable | Responsible Team Member(s) |
 | --------------- | -------------------- | -------------------------- |
 | 04-08-2016 | Project Proposal | Team Members |
+| 03-08-2016 | updated propsal and Project Research questions | karthik,akhila |
+| 04-11-2016 | code implementation and database development | Rakesh manepalli |
+| 04-25-2016 | worked on twitter API's and Testing | Avinash chowdary |
+| 05-01-2016 | final documentation and created UI | karthik,akhila and rakesh |
+
+
 
